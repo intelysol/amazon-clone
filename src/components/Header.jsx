@@ -1,8 +1,11 @@
 import React from "react";
 import "./Header.css";
 import SearchIcon from "@material-ui/icons/Search";
+<<<<<<< HEAD
 
 // https://www.youtube.com/watch?v=pxWe-nlOSY4
+=======
+>>>>>>> 77b38a40ca02cc7c2103c5dcf5dcbf97c6878605
 
 function Header() {
   return (

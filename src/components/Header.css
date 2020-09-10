@@ -32,6 +32,7 @@
 .header__nav {
   display: flex;
   justify-content: space-evenly;
+<<<<<<< HEAD
 }
 
 .header__option {
@@ -49,10 +50,32 @@
 .header__optionLineTwo {
   font-size: 13px;
   font-weight: 800;
+=======
+  color: white;
+}
+
+.header__searchInput {
+  padding: 10px;
+  height: 12px;
+  border: none;
+  width: 100%;
+>>>>>>> 77b38a40ca02cc7c2103c5dcf5dcbf97c6878605
 }
 
 .header__searchIcon {
   padding: 5px;
+<<<<<<< HEAD
   height: 22px;
   background-color: #cd9042;
+=======
+  height: 22px !important;
+}
+.header__optionLineOne {
+  font-size: 13px;
+  font-weight: 800;
+}
+
+.header__optionLineTwo {
+  font-size: 20px;
+>>>>>>> 77b38a40ca02cc7c2103c5dcf5dcbf97c6878605
 }
