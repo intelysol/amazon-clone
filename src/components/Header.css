@@ -51,6 +51,10 @@
   font-weight: 800;
 }
 
+.header__optionBasket {
+  display: flex;
+}
+
 .header__searchIcon {
   padding: 5px;
   height: 22px;
